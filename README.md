@@ -9,7 +9,7 @@ do this, some Python libraries such as Pandas was used Matplotlib to plot the gr
 Facebook Prophet to predict future cases and deaths, to retrieve and organize data.
 
 2-week prediction was made using the number of cases from January 3, 2020 to
-the present, and the comparison with the last 2-week data was made using Rmse and
+December 30, 2020 and the comparison with the last 2-week data was made using Rmse and
 Mape error measurement metrics.
 
 In this project, written in the Python programming language, Pandas library was used to
